@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.token.bucket.config.TokenInterceptors,\
+  com.token.bucket.config.StartEndLinstener
